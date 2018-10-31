@@ -1,0 +1,23 @@
+import React from 'react';
+import SvgIcon from 'material-ui/SvgIcon';
+
+const StagesExpand = (props) => (
+    <SvgIcon {...props}>
+        <g>
+            <line id="svg_8" y2="0.438664" x2="6.032031" y1="0.470695" x1="0.534758" stroke="#2E2E2E" />
+            <line id="svg_9" y2="0.438664" x2="19.529304" y1="0.470695" x1="14" stroke="#2E2E2E" />
+            <line id="svg_10" y2="19.529303" x2="19.497272" y1="19.561335" x1="14" stroke="#2E2E2E" />
+            <line id="svg_11" y2="19.529303" x2="6" y1="19.561335" x1="0.502727" stroke="#2E2E2E" />
+            <line id="svg_14" y2="6" x2="0.470696" y1="-0.009774" x1="0.470696" stroke="#2E2E2E" />
+            <line id="svg_15" y2="20.026591" x2="0.470696" y1="14" x1="0.470696" stroke="#2E2E2E" />
+            <line id="svg_16" y2="20.026591" x2="19.529305" y1="14" x1="19.529305" stroke="#2E2E2E" />
+            <line id="svg_17" y2="6" x2="19.529305" y1="-0.041805" x1="19.529305" stroke="#2E2E2E" />
+            <line id="svg_18" y2="6.974225" x2="7.006257" y1="0.022258" x1="0.054289" stroke="#2E2E2E" />
+            <line id="svg_19" y2="19.978922" x2="19.946892" y1="13.026955" x1="12.994924" stroke="#2E2E2E" />
+            <line transform="rotate(90 16.502939224243168,3.4982419013977064) " id="svg_20" y2="6.974225" x2="19.978923" y1="0.022258" x1="13.026956" stroke="#2E2E2E" />
+            <line transform="rotate(90 3.530273199081418,16.470907211303714) " id="svg_21" y2="19.946891" x2="7.006257" y1="12.994924" x1="0.05429" stroke="#2E2E2E" />
+        </g>
+    </SvgIcon>
+);
+
+export default StagesExpand;
